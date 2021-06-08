@@ -11,6 +11,14 @@ console.log(str);
 str.split("");
 console.log(str);
 
+arr.join();
+console.log(arr);
+arr.join("a");
+console.log(arr);
+arr.join(" ");
+console.log(arr);
+arr.join("");
+console.log(arr);
 //b) Use the join method on the array to identify the purpose of the parameter inside the ().
 str.join;
 console.log(str);
